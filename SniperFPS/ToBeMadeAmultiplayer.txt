@@ -1,0 +1,2 @@
+This offline sniper shooter needs to be made into a multiplayer.
+using the photon PUN2 and some additonal details
